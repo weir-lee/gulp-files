@@ -1,0 +1,8 @@
+#模块
+node_modules
+dist
+src
+新建文本文档.html
+#日志
+npm-debug.log
+.idea
